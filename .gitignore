@@ -153,3 +153,5 @@ cython_debug/
 checkpoints/
 wandb/
 old_checkpoints/
+hidden/
+video.mp4
