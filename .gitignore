@@ -155,3 +155,4 @@ wandb/
 old_checkpoints/
 hidden/
 video.mp4
+.DS_Store

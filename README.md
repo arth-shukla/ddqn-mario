@@ -25,9 +25,7 @@ The DDQN was able to learn to play one level with fairly regular success:
 
 <figure>
   <figcaption><h3>DDQN After 13000 Episodes</h3></figcaption>
-  <video style="width:100%" controls>
-    <source src="./assets/ddqn_13000.mp4" type="video/mp4">
-  </video>
+  <a href='https://wandb.ai/arth-shukla/Mario-DDQN/runs/5fu0hx6e'><img src='./assets/ddqn_13000.gif' width='100%'/></a>
 </figure>
 
 Note that the DDQN does still sometimes fail, but in general it performs well.
