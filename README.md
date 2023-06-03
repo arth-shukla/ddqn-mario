@@ -20,12 +20,12 @@ The DDQN was able to learn to play one level with fairly regular success:
 
 <figure>
   <figcaption><h3>Total Reward by Episode</h3></figcaption>
-  <img src='./assets/tot_rewards_per_episode.png' />
+  <img src='./assets/tot_rewards_per_episode.png' width='60%'/>
 </figure>
 
 <figure>
   <figcaption><h3>DDQN After 13000 Episodes</h3></figcaption>
-  <a href='https://wandb.ai/arth-shukla/Mario-DDQN/runs/5fu0hx6e'><img src='./assets/ddqn_13000.gif' width='100%'/></a>
+  <a href='https://wandb.ai/arth-shukla/Mario-DDQN/runs/5fu0hx6e'><img src='./assets/ddqn_13000.gif' width='60%'/></a>
 </figure>
 
 Note that the DDQN does still sometimes fail, but in general it performs well.
