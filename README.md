@@ -1,8 +1,8 @@
-# Transfer Learning with DistilBert for Sentiment140
+# DDQN to Beat Mario
 
 ## Link
 
-WandB: https://wandb.ai/arth-shukla/Mario-RL
+WandB: https://wandb.ai/arth-shukla/Mario-DDQN
 
 ## Resources Used
 
