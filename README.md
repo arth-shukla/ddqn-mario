@@ -10,7 +10,7 @@ I based the DDQN on the resource here: https://storage.googleapis.com/deepmind-m
 
 ## Technologies Used
 
-Algorithms/Concepts: Double Deep Q Networks () building on Deep Q Networks (DQNs)
+Algorithms/Concepts: Double Deep Q Networks (DDQNs) building on Deep Q Networks (DQNs)
 
 AI Development: Pytorch (Torch, Cuda)
 
